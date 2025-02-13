@@ -6,3 +6,5 @@ above the minimum guaranteed on the contract.
 
 It uses a selenium webdriver to open a speed test, and uses the result to decide
 whether it should complain or not
+
+This project is a part of my [Python Automated Programs](https://github.com/Songhai9/Python-Automation-App-Projects/tree/main)
